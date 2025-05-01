@@ -1,0 +1,162 @@
+{
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "id": "d5fca5f5-197a-48d2-9dd7-0ac8750ced98",
+   "metadata": {},
+   "source": [
+    "# Data Science Tools and Ecosystem\n"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "990607ce-cddf-4249-92ad-e2d62f9b56e0",
+   "metadata": {},
+   "source": [
+    "In this notebook, we summarize some of the essential tools, languages, and libraries used in the field of Data Science.\n"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "b39ef928-d19c-4fd3-aea3-db975ddbb078",
+   "metadata": {},
+   "source": [
+    "Some of the popular languages that Data Scientists use are:\n",
+    "\n",
+    "1. Python  \n",
+    "2. R  \n",
+    "3. SQL  \n",
+    "4. Julia  \n",
+    "5. Scala\n"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "a5ca7031-9a34-4357-b10b-ed829872e9e5",
+   "metadata": {},
+   "source": [
+    "Some of the commonly used libraries used by Data Scientists include:\n",
+    "\n",
+    "- Pandas  \n",
+    "- NumPy  \n",
+    "- Matplotlib  \n",
+    "- Scikit-learn  \n",
+    "- TensorFlow  \n",
+    "- ggplot2\n"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "1adf9c97-70c0-46ff-ab05-3feaef2fe0c3",
+   "metadata": {},
+   "source": [
+    "| Data Science Tool     | Description                         |\n",
+    "|-----------------------|-------------------------------------|\n",
+    "| Jupyter Notebook      | Interactive code and markdown cells |\n",
+    "| RStudio               | IDE for R programming               |\n",
+    "| Apache Zeppelin       | Web-based notebook                  |\n",
+    "| TensorFlow            | Machine learning framework          |\n",
+    "| VS Code               | Code editor                         |\n"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "dc51dbb1-4506-4114-a564-3459b4d76c69",
+   "metadata": {},
+   "source": [
+    "Below is an example of how arithmetic expressions are used in code to perform calculations such as addition and multiplication.\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 3,
+   "id": "a698ef73-6b58-4736-98ef-d4bd2c623532",
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "17"
+      ]
+     },
+     "execution_count": 3,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "# This expression multiplies two numbers and adds another\n",
+    "(3 * 4) + 5\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 5,
+   "id": "1073b5b0-ba8c-4d86-8ecd-aaf7564557c0",
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "3.3333333333333335"
+      ]
+     },
+     "execution_count": 5,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "# This will convert 200 minutes to hours\n",
+    "minutes = 200\n",
+    "hours = minutes / 60\n",
+    "hours\n"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "885a6be6-b562-489d-9512-80193c6dd89e",
+   "metadata": {},
+   "source": [
+    "**Objectives:**\n",
+    "\n",
+    "- List popular languages for Data Science  \n",
+    "- List commonly used libraries in Data Science  \n",
+    "- Create tables using Markdown  \n",
+    "- Perform arithmetic operations using code  \n",
+    "- Convert minutes into hours using Python\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "ce7abd6f-6ee0-45e7-804a-ad9836207366",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "**Author:** Muhammet Emin Akkurt\n"
+   ]
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python [conda env:base] *",
+   "language": "python",
+   "name": "conda-base-py"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.12.7"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}
